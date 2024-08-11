@@ -8,8 +8,8 @@ This project uses the `Telethon` library to monitor messages in a Telegram chat 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/telegram-monitor-bot.git
-   cd telegram-monitor-bot
+   git clone https://github.com/andiimdevlp/TelegramMonit.git
+   cd TelegramMonit
 
 2. **Install dependencies:**
    
