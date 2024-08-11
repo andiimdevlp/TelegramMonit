@@ -1,0 +1,14 @@
+# Ignorar arquivos de sessão
+*.session
+
+# Ignorar arquivos JSON
+*.json
+
+# Ignorar pasta __pycache__
+__pycache__/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de cache
+.cache/
